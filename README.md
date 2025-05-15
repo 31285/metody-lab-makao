@@ -1,4 +1,4 @@
-# so-lab-makao
+# Stosy i Kolejki - Makao
 
 To build create a folder, than build
 
